@@ -1,0 +1,28 @@
+.container1{
+  display: flex;
+}
+.content{
+  width: 100%;
+}
+.sidebar{
+  height: 650px;
+}
+.tag{
+  margin: 0px 10px;
+}
+.form{
+  margin-left: 20px;
+  margin-top: 20px;
+  width:1300px;
+}
+.card{
+  margin: 20px 20px;
+}
+
+.msg{
+  padding: 40px 0px;
+}
+.btn1{
+  padding-top: 30px;
+  width: 150px;
+}
